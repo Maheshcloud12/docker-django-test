@@ -157,3 +157,10 @@ docker compose logs db
 Tanmay Kulkarni
 
 Full Stack Developer | Django | Docker | AWS
+
+
+# output
+
+![terminal code](image.png)
+![login page](image-2.png)
+![admin dashboard](image-1.png)
